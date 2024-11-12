@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @vanish007
+- 👋 Hi, I’m Ivan Erofeev
 - 👀 I’m interested in sport and CS
 - 🌱 I’m always learning something new
 <!---
